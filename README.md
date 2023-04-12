@@ -1,13 +1,19 @@
 # Automação Selenium
- 
+
 
 ### Objetivo do Projeto:
 	Criar um Projeto que envolva automatização de processo pela Web, Utilizando o Selenium
+
 
 ### Descrição:
 	Nosso papel é abrir uma página da Web, pesquisar os produtos listados,
 	Comparar com nossos indicadores (como Preço Min ou Preço Max),
 	Criar uma Planilha Excel, e enviarmos um e-mail com as melhores ofertas encontradas.	
+
+
+## Inspirações e Créditos:
+	Curso PythonImpressionador - Professor Jõao Paulo Lira
+	https://www.hashtagtreinamentos.com/
 
 
 ## Requisitos:
@@ -23,6 +29,7 @@
 	from email import encoders
 	import pathlib
 	import time
+
 
 ## Pastas e Arquivos Utilizados no Projeto:
 	buscas.xlsx (Arquivo Excel com os Indicadores)
