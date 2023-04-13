@@ -4,7 +4,10 @@
 ### Objetivo do Projeto:
 	Criar um Projeto que envolva automatização de processo pela Web, Utilizando o Selenium, analizando os melhores preços dos produtos, criando um arquivo Excel e mandando uma análise com os dados tratados por e-mail
 	
-
+	
+### Recomendações:
+	Como esse projeto lidamos com envio de e-mail, lembre-se de completar o código com seus dados!
+	
 
 ### Descrição:
 	Nosso papel é abrir uma página da Web, pesquisar os produtos listados,
