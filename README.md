@@ -2,7 +2,8 @@
 
 
 ### Objetivo do Projeto:
-	Criar um Projeto que envolva automatização de processo pela Web, Utilizando o Selenium
+	Criar um Projeto que envolva automatização de processo pela Web, Utilizando o Selenium, analizando os melhores preços dos produtos, criando um arquivo Excel e mandando uma análise com os dados tratados por e-mail
+	
 
 
 ### Descrição:
