@@ -1,27 +1,28 @@
-# Automação Selenium
+# Selenium Automation
 
 
-### Objetivo do Projeto:
-	Criar um Projeto que envolva automatização de processo pela Web, Utilizando o Selenium, analizando os melhores preços dos produtos, criando um arquivo Excel e mandando uma análise com os dados tratados por e-mail
+### Project's goal:
+	Create a Project that involves process automation via the Web, using Selenium, analyzing the best product prices, creating an Excel file and sending an analysis with the processed data by email.
+
 	
+### Recommendations:
+	As this project deals with sending e-mails, remember to complete the code with your data!
 	
-### Recomendações:
-	Como esse projeto lidamos com envio de e-mail, lembre-se de completar o código com seus dados!
-	
 
-### Descrição:
-	Nosso papel é abrir uma página da Web, pesquisar os produtos listados,
-	Comparar com nossos indicadores (como Preço Min ou Preço Max),
-	Criar uma Planilha Excel, e enviarmos um e-mail com as melhores ofertas encontradas.	
+### Description:
+	Our role is to open a webpage, search for the products listed,
+	Compare with our indicators (like Min Price or Max Price),
+	Create an Excel Spreadsheet, and we'll send you an email with the best offers found.	
 
 
-## Inspirações e Créditos:
+## Inspirations and Credits:
 	Curso PythonImpressionador - Professor Jõao Paulo Lira
 	https://www.hashtagtreinamentos.com/
 
 
-## Requisitos:
+## Requirements:
 ### Bibliotecas Utilizadas:
+	Libraries Used:
 	from selenium import webdriver
 	from selenium.webdriver.common.keys import Keys
 	from selenium.webdriver.common.by import By
@@ -35,13 +36,8 @@
 	import time
 
 
-## Pastas e Arquivos Utilizados no Projeto:
-	buscas.xlsx (Arquivo Excel com os Indicadores)
+## Folders and Files Used in the Project:
+	buscas.xlsx (Excel file with the Indicators)
 
 
 ### Att, Gabriel Souza
-
-
-
-
-
