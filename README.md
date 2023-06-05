@@ -16,8 +16,9 @@
 
 
 ## Inspirations and Credits:
-	Curso PythonImpressionador - Professor Jõao Paulo Lira
-	https://www.hashtagtreinamentos.com/
+
+PythonImpressionador - Teacher Jõao Paulo Lira
+https://www.hashtagtreinamentos.com/
 
 
 ## Requirements:
