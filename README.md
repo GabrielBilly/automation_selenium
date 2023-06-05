@@ -15,7 +15,7 @@
 	Create an Excel Spreadsheet, and we'll send you an email with the best offers found.	
 
 
-## Inspirations and Credits:
+### Inspirations and Credits:
 
 	Training course: Python Impressionador - Teacher Jõao Paulo Lira
 	https://www.hashtagtreinamentos.com/
